@@ -1,0 +1,2 @@
+DELETE FROM Currencies
+WHERE ID = 1;
